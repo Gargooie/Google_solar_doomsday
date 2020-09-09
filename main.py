@@ -19,5 +19,5 @@ def solution(area):
         area_cut = take_square(area_cut)
 
     return(array)
-    
+
 
